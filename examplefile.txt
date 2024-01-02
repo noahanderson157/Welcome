@@ -1,0 +1,1 @@
+This is an example file that shows how a user creates a new file through the repository
